@@ -1,7 +1,7 @@
 ---
 layout: project
-title: MOD3LTHERM
-subtitle: "Determining subsurface temperature at Krafla, Iceland using geophysical-petrological modelling"
+title: Determining subsurface temperature at Krafla, Iceland using geophysical-petrological modelling
+subtitle: "MOD3LTHERM Project"
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
