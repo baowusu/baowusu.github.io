@@ -1,6 +1,6 @@
 projects:
-  - title: "Determining subsurface temperature at Krafla, Iceland using geophysical-petrological modelling"
-    subtitle: "MOD3LTHERM"
+  - title: "Determining subsurface temperature using geophysical-petrological modelling"
+    subtitle: "Local-scale application at Krafla, Iceland "
     thumbnail: "assets/projects/2016_network-ab/thumbnail.jpg"
     url: "projects/2016_network-ab-testing.html"
     selected: y
