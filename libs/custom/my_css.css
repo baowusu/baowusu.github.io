@@ -42,7 +42,8 @@ h4 {
   color: rgba(0, 0, 0, 0.4);
   border-top: 1px solid #eee;
   padding: 15px 0 0 0;
-  margin-bottom: 0;}
+  margin-bottom: 0;
+  font-size: 1.2rem;}
 .navbar {
   display: none; }
 .title-subtitle h3 {
