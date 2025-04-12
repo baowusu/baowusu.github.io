@@ -1,7 +1,7 @@
 papers:
 
   - title: "Seismic facies analysis using machine learning techniques: a review and case study"
-    authors: "<b>Bernard Asare Owusu</b>, Cyril Dziedzorm Boateng, Van-Dycke Sarpong Asare, Sylvester Kojo Danuor, Caspar Daniel Adenutsi, Jonathan Atuquaye Quaye"
+    authors: "<u>Bernard Asare Owusu</u>, Cyril Dziedzorm Boateng, Van-Dycke Sarpong Asare, Sylvester Kojo Danuor, Caspar Daniel Adenutsi, Jonathan Atuquaye Quaye"
     venue: "Earth Science Informatics. 2024."
     paper_pdf: "/assets/publications/2024_seismic_facies_analysis/paper.pdf"
     selected: y
