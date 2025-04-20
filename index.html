@@ -32,9 +32,10 @@ title: Home
   
 <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">News</div></li>
-    <li><div class="button" data-ref="#papers-all">All</div></li>
+    <li><div class="button" data-ref="#papers-all">Upcoming Events</div></li>
   </ul>
-  
+  <div class="tab-content">
+    <div class="tab-pane active" id="papers-selected">
   <!-- <p> Scroll for older news </p> -->
   <UL style="list-style-type: none; padding: 2px; overflow-y: scroll; height:200px;">
  <li><b>[27-Apr-25]</b>
@@ -53,11 +54,11 @@ title: Home
     I have started my PhD at the <a href="https://dias.ie/" target="_blank"><b>Dublin Institute for Advanced Studies</b></a>.
   </li>
   </UL>
+    </div>
+  </div>
 </div>
 
-  <div class="tab-pane" id="upcoming">
-      {% for paper in site.data.publications.papers %}
-
+  
 <!-- ========== PUBLICATIONS ========== -->
 <div class="docs-section" id="publications">
   <h4>Publications</h4>
