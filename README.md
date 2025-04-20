@@ -28,6 +28,5 @@ mkdir public_html
   - [Jquery (3.1.1)](https://jquery.com/)
  
 
-  ## Credit:
-  Website used Martin Saveski's Template
-  https://faculty.washington.edu/msaveski/
+  ## Credit
+  Website used Martin Saveski's Template: https://faculty.washington.edu/msaveski/
