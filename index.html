@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         </div>
       {% endfor %} -->
-    {% for year in site.data.publications.pubs %}
+     {% for year in site.data.publications.pubs %}
     <h5><b>{{year.year}}</b></h5>
     {% for paper in year.papers %}
     <div class="paper">
@@ -205,16 +205,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 {% endif %}
                 <div class="paper-buttons">
                     {% if paper.preprint %}
-                    <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">HTML</a>
+                    <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
                     {% endif %}
 
                     {% if paper.paper_pdf %}
-                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
+                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
                     {% endif %}
 
 
                     {% if paper.code %}
-                    <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">bib</a>
+                    <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
                     {% endif %}
 
                     {% if paper.code_star %}
