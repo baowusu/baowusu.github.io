@@ -110,15 +110,15 @@ document.addEventListener('DOMContentLoaded', () => {
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
             {% endif %}
 
-            {% if paper.slides %}
-              <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
+            {% if paper.html %}
+              <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">html</a>
             {% endif %}
 
-            {% if paper.poster %}
-              <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
+            {% if paper.bib %}
+              <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">bib</a>
             {% endif %}
 
             {% if paper.video %}
