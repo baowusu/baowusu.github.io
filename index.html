@@ -121,11 +121,11 @@ document.addEventListener('DOMContentLoaded', () => {
             {% endif %}
 
             {% if paper.html %}
-              <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">html</a>
+              <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">HTML</a>
             {% endif %}
 
             {% if paper.bib %}
-              <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">bib</a>
+              <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">BibTex</a>
             {% endif %}
 
             {% if paper.video %}
