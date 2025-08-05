@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
     Most recent publications on <a href="{{ site.data.main_info.google_scholar }}" target="_blank"><b>Google Scholar</b></a>.<br/>
   <sup>‡</sup> indicates equal contribution.
   </p>
-<!--
+
   <ul class="tab-nav">
     <li><div class="button active" data-ref="#papers-selected">Selected</div></li>
     <li><div class="button" data-ref="#papers-all">All</div></li>
@@ -109,14 +109,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
-            {% if paper.html %}
-              <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">HTML</a>
-            {% endif %}
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.bib %}
-              <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">Bib</a>
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
             {% endif %}
 
             {% if paper.slides %}
@@ -151,14 +145,8 @@ document.addEventListener('DOMContentLoaded', () => {
           <p>{{ paper.authors }}</p>
           <p><i>{{ paper.venue }}</i></p>
            <div class="paper-buttons">
-            {% if paper.html %}
-              <a class="button" href="{{ paper.html | prepend: site.baseurl }}" target="_blank">HTML</a>
-            {% endif %}
             {% if paper.paper_pdf %}
-              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">PDF</a>
-            {% endif %}
-            {% if paper.bib %}
-              <a class="button" href="{{ paper.bib | prepend: site.baseurl }}" target="_blank">Bib</a>
+              <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
             {% endif %}
 
             {% if paper.slides %}
@@ -183,103 +171,11 @@ document.addEventListener('DOMContentLoaded', () => {
 
           </div>
         </div>
-      {% endfor %} -->
-     {% for year in site.data.publications.pubs %}
-    <h5><b>{{year.year}}</b></h5>
-    {% for paper in year.papers %}
-    <div class="paper">
-        <div class="row">
-            <div class="four columns">
-                <div class="figure">
-                    <img src='{{ site.baseurl }}{{ paper.img }}' width="100%">
-                </div>
-            </div>
-            <div class="eight columns">
-                <!--               <div class="vertical-center"> -->
-                <p class="title"><b>{{ paper.title }}</b></p>
-                <p>{{ paper.authors }}</p>
-                <p><i>{{ paper.venue }}</i></p>
-                {% if paper.note %}
-                <!--                   <p><b>{{ paper.note }}</b></p> -->
-                <p>{{ paper.note }}</p>
-                {% endif %}
-                <div class="paper-buttons">
-                    {% if paper.preprint %}
-                    <a class="button" href="{{ paper.preprint | prepend: site.baseurl }}" target="_blank">Preprint</a>
-                    {% endif %}
-
-                    {% if paper.paper_pdf %}
-                    <a class="button" href="{{ paper.paper_pdf | prepend: site.baseurl }}" target="_blank">Paper</a>
-                    {% endif %}
-
-
-                    {% if paper.code %}
-                    <a class="button" href="{{ paper.code | prepend: site.baseurl }}" target="_blank">Code</a>
-                    {% endif %}
-
-                    {% if paper.code_star %}
-                    <img src='{{ site.baseurl }}{{ paper.code_star }}' height="20%" >
-                    {% endif %}
-
-                    {% if paper.documentation %}
-                    <a class="button" href="{{ paper.documentation | prepend: site.baseurl }}" target="_blank">Documentation</a>
-                    {% endif %}
-
-                    {% if paper.slides %}
-                    <a class="button" href="{{ paper.slides | prepend: site.baseurl }}" target="_blank">Slides</a>
-                    {% endif %}
-
-                    {% if paper.poster %}
-                    <a class="button" href="{{ paper.poster | prepend: site.baseurl }}" target="_blank">Poster</a>
-                    {% endif %}
-
-                    {% if paper.supplement %}
-                    <a class="button" href="{{ paper.supplement | prepend: site.baseurl }}" target="_blank">Supplement</a>
-                    {% endif %}
-
-                    {% if paper.UKSPNg %}
-                    <a class="button" href="{{ paper.UKSPNg | prepend: site.baseurl }}" target="_blank">UKSP Nugget</a>
-                    {% endif %}
-
-                    {% if paper.blogpost %}
-                    <a class="button" href="{{ paper.blogpost | prepend: site.baseurl }}" target="_blank">Blog post</a>
-                    {% endif %}
-
-                    {% if paper.pressrel %}
-                    <a class="button" href="{{ paper.pressrel | prepend: site.baseurl }}" target="_blank">Press Coverage</a>
-                    {% endif %}
-
-                    {% if paper.video %}
-                    <a class="button" href="{{ paper.video }}" target="_blank">Video</a>
-                    {% endif %}
-
-                    {% if paper.notebook %}
-                    <a class="button" href="{{ paper.notebook }}" target="_blank">Python Notebook</a>
-                    {% endif %}
-
-                    {% if paper.data %}
-                    <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
-                    {% endif %}
-
-                    {% if paper.literature_collection %}
-                    <a class="button" href="{{ paper.literature_collection }}" target="_blank">Paper collection</a>
-                    {% endif %}
-
-                    {% if paper.literature_collection_star %}
-                    <img src='{{ site.baseurl }}{{ paper.literature_collection_star }}' height="20%" >
-                    {% endif %}
-
-
-                </div>
-                <!--               </div> -->
-            </div>
-        </div>
+      {% endfor %}
     </div>
-    {% endfor %}
-    {% endfor %}
-    <!--    </div>
-      </div> -->
+  </div>
 </div>
+
 
 <!-- ========== PROJECTS ========== -->
 <!--
