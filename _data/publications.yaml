@@ -1,5 +1,7 @@
 papers:
 
+- year: 2025 
+papers:
   - title: "Seismic facies analysis using machine learning techniques: a review and case study"
     authors: "<u>Bernard Asare Owusu</u>, Cyril Dziedzorm Boateng, Van-Dycke Sarpong Asare, Sylvester Kojo Danuor, Caspar Daniel Adenutsi, Jonathan Atuquaye Quaye"
     venue: "Earth Science Informatics. 2024."
