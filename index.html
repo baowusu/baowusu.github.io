@@ -140,10 +140,13 @@ document.addEventListener('DOMContentLoaded', () => {
               <a class="button" href="{{ paper.data }}" target="_blank">Data</a>
             {% endif %}
 
+            </div>
           </div>
-        </div>
       {% endfor %}
+        </div>
+      </div>
     </div>
+
 
     <div class="tab-pane" id="papers-all">
       {% for paper in site.data.publications.papers %}
