@@ -6,7 +6,7 @@ papers:
     html: "https://doi.org/10.1007/s12145-024-01395-3"
     paper_pdf: "/assets/publications/2024_seismic_facies_analysis/paper.pdf"
     bib: "https://ui.adsabs.harvard.edu/abs/2024EScIn..17.3899O/exportcitation"
-    img: "/assets/imgs/owusuetal.png"
+    img: "/assets/owusuetal.png"
     selected: y
 
  
