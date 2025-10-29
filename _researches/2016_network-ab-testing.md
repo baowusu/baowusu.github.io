@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: research
 title: Determining subsurface temperature using geophysical-petrological modelling
 ---
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
