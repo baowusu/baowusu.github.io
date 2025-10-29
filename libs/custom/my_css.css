@@ -54,21 +54,21 @@ h4 {
   text-align: center; }
 
 /*  ================ Project styling  ================ */
-.project-container {
+.research-container {
   margin-bottom: 30px;
 }
-.project-image-container {
+.research-image-container {
   border: 1px solid rgba(0,0,0,0.2);
   padding: 3px;
   transition: 0.3s;
 }
-.project-image-container:hover {
+.research-image-container:hover {
   transition: 0.3s;
 }
-.project-image-container:hover img {
+.research-image-container:hover img {
   opacity: 0.4;
 }
-.project-caption {
+.research-caption {
   padding: 3px;
 }
 
