@@ -14,7 +14,7 @@ title: Research
   <p>For update on the MOD3LTHERM Project, please visit our website: <a href="https://mod3ltherm.ie/" target="_blank"><b>mod3ltherm.ie</b></a></p>
 
     <div class="tab-pane">
-      <!-- {% for project in site.data.projects.projects %} -->
+      {% for research in site.data.researches.researches %}
         {% assign index_modulo = forloop.index0 | modulo:2 %}
         {% if index_modulo == 0 %}
           <div class="row">
