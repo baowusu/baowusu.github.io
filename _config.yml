@@ -5,5 +5,5 @@ baseurl: ""
 url: "https://baowusu.github.io"  
 
 collections:
-  projects:
+  researches:
     output: true
