@@ -1,7 +1,7 @@
 researches:
 
 
-  - title: "Temperature modeling using joint geophysical-petrological inversion methods"
+  - #title: "Temperature modeling using joint geophysical-petrological inversion methods"
     thumbnail: "assets/krafla.jpg"
     url: "/researches/2025_determining-subsurface-temperature.html"
     selected: y 
