@@ -43,4 +43,6 @@ April 2025 - Attended [EGU 2025](https://www.egu25.eu), for the first time!
 
 February 2025 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu25-6881) has been accepted for [EGU 25](https://www.egu25.eu)!
 
+April 2025 - Attended [IGRM 2025](https://www.tcd.ie/geology/news-and-events/igrm-2025/) at [Trinity College Dublin](https://www.tcd.ie).
+
 September 2024 - Started my PhD at DIAS!
