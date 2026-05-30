@@ -16,7 +16,7 @@ img {
 </style>
 
 <img src="IMG_6697.JPG" alt="Profile"
-        title="Profile" class="center" style="width: 200px; height: auto;" />
+        title="Profile" class="center" style="width: 250px; height: auto;" />
 
 
 I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). I am also a student at the School of Earth Sciences, [University College Dublin](https://www.ucd.ie)
