@@ -26,7 +26,7 @@ embed{
 
 **Owusu B.A.**, Chambers E.L., Jónsdóttir K., Bean C.J.. Multi-scale Imaging of Iceland using Ambient Noise and Teleseismic Earthquakes.
 
-### Conference Publications
+### Conference
 
 **Owusu B.A.**, Chambers E.L., Bean C.J., Jónsdóttir K. (2026). Multi-scale Imaging of Iceland using Ambient Noise and Teleseismic Earthquakes. EGU General Assembly 2026, Vienna, Austria, 3–8 May 2026, EGU26-7706. [[Abstract]](https://doi.org/10.5194/egusphere-egu26-7706)
 
