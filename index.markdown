@@ -27,18 +27,18 @@ Click [here](/assets/Angela_Gao_CV_F23.pdf) for a PDF of my CV.
 
 # News
 
-May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on Multi-scale imaging of Iceland. [[Abstract]](https://doi.org/10.5194/egusphere-egu26-7706).
+May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on [Multi-scale imaging of Iceland](https://doi.org/10.5194/egusphere-egu26-7706).
 
-February 2026 - **MOD3LTHERM** abstract has been accepted for [EGU 26](https://www.egu26.eu)! [[Abstract]](https://doi.org/10.5194/egusphere-egu26-5714).
+February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-5714) has been accepted for [EGU 26](https://www.egu26.eu)!
 
-February 2026 - **MOD3LTHERM** abstract has been accepted for [EGU 26](https://www.egu26.eu)! [[Abstract]](https://doi.org/10.5194/egusphere-egu26-7706).
+February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
 
-October 2025 - Participated in the Computational Earth workshop in Elba: [Workshop Website](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project)
+October 2025 - Participated in the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project) in Elba.
 
-August 2025 - Awarded a travel grant under [SNF Sinergia project MIGRATE](https://data.snf.ch/grants/grant/209434) to attend the Computational Earth workshop in Elba: [Workshop Website](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project)
+August 2025 - Awarded a travel grant under [SNF Sinergia project MIGRATE](https://data.snf.ch/grants/grant/209434) to attend the Computational Earth workshop in Elba.
 
 April 2025 - Attended [EGU 2025](https://www.egu25.eu), for the first time!
 
-February 2025 - **MOD3LTHERM** abstract has been accepted for [EGU 25](https://www.egu25.eu)! [[Abstract]](https://doi.org/10.5194/egusphere-egu25-6881).
+February 2025 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu25-6881) has been accepted for [EGU 25](https://www.egu25.eu)!
 
 September 2024 - Started my PhD at DIAS!
