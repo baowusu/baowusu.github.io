@@ -51,7 +51,8 @@ My name is Bernard Owusu and I am a Ph.D student at the Dublin Institute for Adv
 
 Outside of research, I enjoy music and exploring new places. 
 
-Here is a photo of me doing fieldwork in Ireland and Iceland.
+Here is a photo of near the Irish coast in Dingle.
+
 <div align="center">
   <img src="/assets/chamonix_fixed.jpg" alt="Chamonix"
         title="Chamonix" class="center"/>
