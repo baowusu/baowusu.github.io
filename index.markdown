@@ -45,4 +45,6 @@ February 2025 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu2
 
 April 2025 - Attended [IGRM 2025](https://www.tcd.ie/geology/news-and-events/igrm-2025/) at [Trinity College Dublin](https://www.tcd.ie).
 
+February 2025 - Gave a talk at the [UCD School of Earth Sciences Seminar](https://www.ucd.ie/earthsciences/newsandevents/seminars/).
+
 September 2024 - Started my PhD at the [Dublin Institute for Advanced Studies](https://www.dias.ie)!
