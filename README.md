@@ -1,2 +1,2 @@
-# baowusu-seismo.github.io
+# baowusu.github.io
 Website
