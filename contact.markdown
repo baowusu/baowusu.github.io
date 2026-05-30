@@ -4,6 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-Feel free to stop by my office in 329 Annenberg. You can also contact me by email at afgao@caltech.edu.
+I am located in the DIAS Geophysics Building, 5 Merrion Square North, Dublin, Ireland. You can also contact me by email at baowusu@cp.dias.ie
 
 
