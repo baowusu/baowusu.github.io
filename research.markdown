@@ -21,7 +21,7 @@ embed{
 </style>
 # Webinar
 
-See this [webinar](https://www.youtube.com/watch?v=QyMYF5xqXKo&list=PLSh4uWn_rRuuUDoz4SUO4B-6vjn37KRkE&index=9) by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/) for details on how to use a [joint geophysical-petrological inversion scheme](https://academic.oup.com/gji/article/226/1/146/6166785) to model subsurface temperature in Ireland.
+See this [webinar](https://www.youtube.com/watch?v=QyMYF5xqXKo&list=PLSh4uWn_rRuuUDoz4SUO4B-6vjn37KRkE&index=9) by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/) for details on how to use a [joint geophysical-petrological inversion scheme](https://doi.org/10.1093/gji/ggaf281) to model subsurface temperature in Ireland.
 
 
 # MOD3LTHERM Group: Sept 2024 - Present
