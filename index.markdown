@@ -19,7 +19,7 @@ img {
         title="Profile" class="center" style="width: 200px; height: auto;" />
 
 
-I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). 
+I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). I am also a student at the School of Earth Sciences, [University College Dublin](https://www.ucd.ie)
 
 My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemical and petrophysical information to understand geothermal systems.
 
@@ -35,11 +35,11 @@ February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu2
 
 February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
 
-October 2025 - Participated in the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project) in Elba.
+October 2025 - Attended the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project) in Elba, Italy.
 
-August 2025 - Awarded a travel grant under [SNF Sinergia project MIGRATE](https://data.snf.ch/grants/grant/209434) to attend the Computational Earth workshop in Elba.
+August 2025 - Awarded a travel grant under [SNF Sinergia project MIGRATE](https://data.snf.ch/grants/grant/209434) to attend the Computational Earth workshop in Elba, Italy.
 
-April 2025 - Attended [EGU 2025](https://www.egu25.eu), for the first time!
+April 2025 - Attended [EGU 2025](https://www.egu25.eu) for the first time in Vienna, Austria!
 
 February 2025 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu25-6881) has been accepted for [EGU 25](https://www.egu25.eu)!
 
