@@ -28,7 +28,4 @@ See this [webinar](https://www.youtube.com/watch?v=QyMYF5xqXKo&list=PLSh4uWn_rRu
 
 I currently work in the [MOD3LTHERM Group](https://mod3ltherm.ie/), and I am advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). My project is multiscale seismic imaging of Iceland and temperature modeling. I am currently using ambient noise and teleseismic earthquakes to image the lithosphere of Iceland.
 
-<img src="/assets/MT.PNG" alt="Phase velocity map"
-        title="Phase velocity map" height="250" class="center" />
-
 
