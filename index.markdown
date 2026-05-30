@@ -16,7 +16,7 @@ img {
 </style>
 
 <img src="IMG_6697.JPG" alt="Profile"
-        title="Profile" class="center" style="width: 200px; height: auto; />
+        title="Profile" class="center" style="width: 200px; height: auto;" />
 
 
 I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). 
@@ -43,7 +43,7 @@ September 2021 - *DeepGEM: Generalized Expectation-Maximization for Blind Invers
 
 April 2020 - Received Honorable Mention for the NSF GRFP. 
 
-October 2019 - Started my PhD at Caltech!
+September 2024 - Started my PhD at DIAS!
 
 September 2019 - Participated in the Keck Institute for Space Studies workshop: [Beyond Interstellar: Estracting Science from Black Hole Images](https://www.kiss.caltech.edu/workshops/black_hole/black_hole.html)
 
