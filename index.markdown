@@ -21,7 +21,7 @@ img {
 
 I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). 
 
-My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemistry and petrophysical information to understand geothermal systems.
+My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemical and petrophysical information to understand geothermal systems.
 
 Click [here](/assets/Angela_Gao_CV_F23.pdf) for a PDF of my CV.
 
