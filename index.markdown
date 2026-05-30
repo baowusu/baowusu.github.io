@@ -29,6 +29,10 @@ Click [here](/assets/Angela_Gao_CV_F23.pdf) for a PDF of my CV.
 
 May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on [Multi-scale imaging of Iceland](https://doi.org/10.5194/egusphere-egu26-7706).
 
+April 2026 - Awarded [third best poster award](https://www.egpd2026.com/conference-highlights-awards) at [EGPD 2026](https://www.egpd2026.com).
+
+April 2026 - Attended [EGPD 2026](https://www.egpd2026.com) in [Leoben, Austria](https://www.unileoben.ac.at).
+
 February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-5714) has been accepted for [EGU 26](https://www.egu26.eu)!
 
 February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
