@@ -23,8 +23,6 @@ I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics
 
 My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemical and petrophysical information to understand geothermal systems.
 
-Click [here](/assets/Angela_Gao_CV_F23.pdf) for a PDF of my CV.
-
 # News
 
 May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on [Multi-scale imaging of Iceland](https://doi.org/10.5194/egusphere-egu26-7706).
