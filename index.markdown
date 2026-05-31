@@ -33,9 +33,9 @@ April 2026 - Awarded [third best poster award](https://www.egpd2026.com/conferen
 
 April 2026 - Attended [EGPD 2026](https://www.egpd2026.com) in [Leoben, Austria](https://www.unileoben.ac.at).
 
-February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-5714) has been accepted for [EGU 26](https://www.egu26.eu)!
+February 2026 - MOD3LTHERM [abstract](https://doi.org/10.5194/egusphere-egu26-5714) has been accepted for [EGU 26](https://www.egu26.eu)!
 
-February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
+February 2026 - MOD3LTHERM [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
 
 October 2025 - Visited the [Geothermal Plant in Larderello](https://www.enelgreenpower.com/our-projects/operating/geothermal-power-plant-larderello) on the last day of the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project).
 
@@ -45,7 +45,7 @@ August 2025 - Awarded a travel grant under [SNF Sinergia project MIGRATE](https:
 
 April 2025 - Attended [EGU 2025](https://www.egu25.eu) for the first time in Vienna, Austria!
 
-February 2025 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu25-6881) has been accepted for [EGU 25](https://www.egu25.eu)!
+February 2025 - MOD3LTHERM [abstract](https://doi.org/10.5194/egusphere-egu25-6881) has been accepted for [EGU 25](https://www.egu25.eu)!
 
 April 2025 - Attended [IGRM 2025](https://www.tcd.ie/geology/news-and-events/igrm-2025/) at [Trinity College Dublin](https://www.tcd.ie).
 
