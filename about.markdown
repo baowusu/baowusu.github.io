@@ -54,6 +54,6 @@ Outside of research, I enjoy music and exploring new places.
 Here is a photo of near the Irish coast in Dingle.
 
 <div align="center">
-  <img src="/assets/chamonix_fixed.jpg" alt="Chamonix"
+  <img src="/assets/IMG_9892.heic" alt="Chamonix"
         title="Chamonix" class="center"/>
 </div>
