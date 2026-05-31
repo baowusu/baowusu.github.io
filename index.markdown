@@ -19,7 +19,7 @@ img {
         title="Profile" class="center" style="width: 200px; height: auto;" />
 
 
-I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). I am also a student at the School of Earth Sciences, [University College Dublin](https://www.ucd.ie).
+I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics/geophysics/) at [DIAS](https://www.dias.ie/) and advised by [Dr Emma L. Chambers](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/). I am also registered as a PhD student at the School of Earth Sciences, [University College Dublin](https://www.ucd.ie).
 
 My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemical and petrophysical information to understand geothermal systems.
 
