@@ -51,4 +51,6 @@ April 2025 - Attended [IGRM 2025](https://www.tcd.ie/geology/news-and-events/igr
 
 February 2025 - Gave a talk at the [UCD School of Earth Sciences Seminar](https://www.ucd.ie/earthsciences/newsandevents/seminars/).
 
+October 2024 - Attended DIG Workshop at 10 Burlington.
+
 September 2024 - Started my PhD at the [Dublin Institute for Advanced Studies](https://www.dias.ie)!
