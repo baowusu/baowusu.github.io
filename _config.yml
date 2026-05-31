@@ -25,6 +25,7 @@ email: baowusu@cp.dias.ie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  baowusu
+linkedin_username: boasare
 
 # Build settings
 theme: minima
