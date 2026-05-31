@@ -20,7 +20,6 @@ embed{
 }
 </style>
 
- \* denotes equal contribution
  
 ### In preparation
 
