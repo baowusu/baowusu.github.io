@@ -27,6 +27,8 @@ My primary research interests are in seismic imaging and temperature modeling. I
 
 May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on [Multi-scale imaging of Iceland](https://doi.org/10.5194/egusphere-egu26-7706).
 
+April 2026 - Visited the site of the [Geothermal Project in Vienna](https://www.omv.com/en/media/press-releases/2024/preparations-are-being-made-to-start-drilling-for-the-first-deep-geothermal-plant-in-vienna) on the last day of [EGPD 2026](https://www.egpd2026.com).
+
 April 2026 - Awarded [third best poster award](https://www.egpd2026.com/conference-highlights-awards) at [EGPD 2026](https://www.egpd2026.com).
 
 April 2026 - Attended [EGPD 2026](https://www.egpd2026.com) in [Leoben, Austria](https://www.unileoben.ac.at).
@@ -34,6 +36,8 @@ April 2026 - Attended [EGPD 2026](https://www.egpd2026.com) in [Leoben, Austria]
 February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-5714) has been accepted for [EGU 26](https://www.egu26.eu)!
 
 February 2026 - **MOD3LTHERM** [abstract](https://doi.org/10.5194/egusphere-egu26-7706) has been accepted for [EGU 26](https://www.egu26.eu)! 
+
+October 2025 - Visited the [Geothermal Plant in Larderello](https://www.enelgreenpower.com/our-projects/operating/geothermal-power-plant-larderello) on the last day of the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project).
 
 October 2025 - Attended the [Computational Earth workshop](https://www.unige.ch/sciences/terre/en/groups/crustal-deformation-and-fluid-flow/snf-project) in Elba, Italy.
 
