@@ -7,10 +7,15 @@ permalink: /contact/
 I am located in the DIAS Geophysics Building, 5 Merrion Square North, Dublin, Ireland. You can also contact me by email at baowusu@cp.dias.ie
 
 Bernard A. Owusu
+
 PhD Student
+
 Geophysics Section
+
 Dublin Institute for Advanced Studies
+
 5 Merrion Square North
+
 Dublin, IE
 
 <div align="center">
