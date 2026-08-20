@@ -24,6 +24,8 @@ I am a PhD student in the [Geophysics Section](https://www.dias.ie/cosmicphysics
 My primary research interests are in seismic imaging and temperature modeling. I am interested in methods that integrate seismic observables with geochemical and petrophysical information to understand geothermal systems.
 
 # News
+September 2026 - I will be in [Oxford](https://www.ox.ac.uk/) for [PGRiP 2026](https://geophysics.org.uk/pgrip/).
+
 July 2026 - In Iceland for [SNUCI/I-LAVA](https://www.fdsn.org/networks/detail/ZX_2024/) fieldwork with [Jenny Jenkins](https://www.durham.ac.uk/staff/jennifer-jenkins/).
 
 May 2026 - Presented at [EGU 26](https://www.egu26.eu) on my work with [Emma](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-dr-emma-chambers/), [Chris](https://www.dias.ie/cosmicphysics/geophysics/geo-staff/geo-chris-bean/), and [Kristín](https://en.vedur.is/about-imo/employees/persona/214/fyrirtaeki/2) on [Multi-scale imaging of Iceland](https://doi.org/10.5194/egusphere-egu26-7706).
