@@ -23,7 +23,7 @@ embed{
  
 ### In preparation
 
-**Owusu B.A.**, Chambers E.L., Jónsdóttir K., Bean C.J.. Multi-scale Imaging of Iceland using Ambient Noise and Teleseismic Earthquakes.
+**Owusu B.A.**, Chambers E.L.,  Bean C.J., Jónsdóttir K. (in prep). Seismic imaging of the crust and upper mantle of Iceland. To be submitted to G-cubed.
 
 ### Conference
 
