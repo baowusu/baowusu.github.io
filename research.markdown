@@ -36,3 +36,4 @@ I am currently a PhD researcher in the [MOD3LTHERM Group](https://mod3ltherm.ie/
 
 #### **Ambient noise imaging of the upper crustal structure at Krafla, NE Iceland**
 
+#### **Temperature modelling in Iceland**
